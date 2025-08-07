@@ -3,9 +3,9 @@
 A full-stack social networking platform built for the CIAAN Cyber Tech Pvt Ltd internship challenge.
 
 ## 🚀 Live Demo
-- **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Backend**: [https://your-backend.render.com](https://your-backend.render.com)
-- **GitHub**: [https://github.com/yourusername/linkedin-clone](https://github.com/yourusername/linkedin-clone)
+- **Frontend**: https://papaya-sunburst-a22b54.netlify.app/
+- **Backend**: https://linkedin-6cgl.onrender.com
+- **GitHub**: https://github.com/locifer18/linkedin
 
 ## 📋 Features
 
@@ -162,8 +162,8 @@ npm run dev
 ## 🔐 Demo User Credentials
 
 ### Demo User Credentials
-- **Email**: test@example.com
-- **Password**: password123
+- **Email**: ansh71@gmail.com
+- **Password**: 7087806565
 
 *Or register a new account to test the registration flow*
 
@@ -199,12 +199,12 @@ npm run dev
 
 ## 🚀 Deployment
 
-### Frontend (Vercel/Netlify)
+### Frontend (Netlify)
 1. Build the project: `npm run build`
 2. Deploy the `build` folder to your hosting service
 3. Set environment variables in your hosting dashboard
 
-### Backend (Render/Railway)
+### Backend (Render)
 1. Connect your GitHub repository
 2. Set environment variables
 3. Deploy with automatic builds
